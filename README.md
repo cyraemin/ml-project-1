@@ -9,9 +9,10 @@ Live demo- https://ml-project-1-9xmtfzw9ljdiekcdgs9kapp.streamlit.app/
 1. ​Machine Learning Pipeline: Implements pre-trained Logistic Regression for high-accuracy predictions.
 2. ​Serialized Model Integration: Uses joblib to load pre-trained .pkl files (model, scaler, and columns) for seamless inference.
 ​3. Interactive UI: Built with Streamlit to provide an intuitive interface for inputting health metrics.
-​Installation
 
-​Clone the repo: git clone https://github.com/yourusername/your-repo-name.git
+​Installation
+cClone the repo-
+git clone https://github.com/cyraemin/ml-project-1
 
 ​Install dependencies: pip install -r requirements.txt
 
